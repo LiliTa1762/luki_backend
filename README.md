@@ -32,7 +32,7 @@ http://luki-env-1.eba-2zc72njp.us-east-2.elasticbeanstalk.com
 | GET | /api/v1.0/landlord/ | Create a new landlord to post a new offer. |
 ​
 ## Colaborators ��
-[Lilibeth Tabares](https://github.com/LiliTa1762). 
-[Mauricio Contreras](https://github.com/mauroxcf). 
-[Jose Parrales](https://github.com/JParrales). 
+[Lilibeth Tabares](https://github.com/LiliTa1762)  
+[Mauricio Contreras](https://github.com/mauroxcf)  
+[Jose Parrales](https://github.com/JParrales)  
 [Francisco Guzmán](https://github.com/I7RANK)
