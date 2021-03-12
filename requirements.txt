@@ -1,0 +1,17 @@
+attrs==20.3.0
+click==7.1.2
+flasgger==0.9.5
+flask==1.1.2
+Flask-Cors==3.0.10
+Flask-SQLAlchemy==2.4.4
+itsdangerous==1.1.0
+Jinja2==2.11.3
+jsonschema==3.2.0
+MarkupSafe==1.1.1
+mistune==0.8.4
+mysqlclient==2.0.3
+pyrsistent==0.17.3
+PyYAML==5.4.1
+six==1.15.0
+SQLAlchemy==1.2.5
+Werkzeug==1.0.1
