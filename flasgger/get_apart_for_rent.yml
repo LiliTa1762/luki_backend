@@ -1,0 +1,12 @@
+path:
+  /rents/:
+    get:
+      sumary: Return all the apartments for rent
+      parameters:
+          schema:
+            type: array
+        response:
+          '200': # status code
+            description: A list with the apartments for rent.
+          '400': # status code
+            description: reason non-available apartment, not found 404
