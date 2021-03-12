@@ -1,0 +1,10 @@
+path:
+  /landlord/:
+    post:
+      sumary: Return the info of the new landlord user
+      parameters:
+          schema:
+            type: dictionary
+        response:
+          '200': #status code
+            description: A dictionary with the whole info.

@@ -1,0 +1,10 @@
+path:
+  /rents:
+    post:
+      sumary: Return new apartment
+      parameters:
+          schema:
+            type: dictionary
+        response:
+          '200': # status code
+            description: dictionary with the info of the new apartment

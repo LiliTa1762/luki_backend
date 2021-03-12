@@ -1,0 +1,17 @@
+path:
+  /landlord/<id>:
+    get:
+      sumary: Return user by ID.
+      parameters:
+        - id: id
+          in: path
+          required: true
+          description: Parameter is search in Database, table User
+          schema:
+            type: integer
+            minimum: 1
+        responses:
+          '200':
+            description: Check of table User and search it ID request, Return a JSON with user id.
+          '400':
+            description: reason non-existing ID, not found 404

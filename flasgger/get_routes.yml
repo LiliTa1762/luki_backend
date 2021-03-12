@@ -1,0 +1,14 @@
+paths:
+    /:
+      get:
+        sumary: Return a status code.
+        description: status of page, return with ok word.
+        responses:
+          '200':
+            description: A JSON string ok word.
+            content:
+              aplication/json:
+                schema:
+                  type: array
+                  items:
+                    type: sting
