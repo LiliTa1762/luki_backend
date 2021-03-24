@@ -6,6 +6,7 @@ from os import getenv
 
 application = app = Flask(__name__)
 
+# Environment variables for AWS
 HBNB_MYSQL_USER = getenv('RDS_USERNAME')
 HBNB_MYSQL_PWD = getenv('RDS_PASSWORD')
 HBNB_MYSQL_HOST = getenv('RDS_HOSTNAME')
@@ -23,6 +24,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] = (
 )
 
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = 'False'
+# Instance for documentation
 Swagger(app)
 
 db = SQLAlchemy(app)
