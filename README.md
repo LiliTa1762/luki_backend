@@ -1,4 +1,8 @@
-# Luki API
+# Luki API :purple_square:
+<img width="374" alt="luki" src="https://user-images.githubusercontent.com/65993425/112252659-881cc000-8c2b-11eb-9bb0-b2a266e5dac0.png" style="border-radius: 15%;"/>  
+
+[Link to Luki repository :link:](https://github.com/I7RANK/Luki)
+
 ##### _goes were you go_
 This repo contains the main code for the Luki API ready to run in localhost and you can test the API in the section **Endpoints**
 ​
@@ -31,7 +35,7 @@ http://luki-env-1.eba-2zc72njp.us-east-2.elasticbeanstalk.com
 | GET | /api/v1.0/rents/ | Create a new apartment for rent. |
 | GET | /api/v1.0/landlord/ | Create a new landlord to post a new offer. |
 ​
-## Colaborators  
+## Colaborators :busts_in_silhouette:
 Lilibeth Tabares - [Github](https://github.com/LiliTa1762) / [Twitter](https://twitter.com/LilibethTabares)  / [Linkedin](https://www.linkedin.com/in/lilibeth-tabares/)  
 Mauricio Contreras - [Github](https://github.com/mauroxcf) / [Twitter](https://twitter.com/MauroJCF)  / [Linkedin](https://www.linkedin.com/in/mauricio-contrerasf/)  
 Francisco Guzmán - [Github](https://github.com/I7RANK) / [Twitter](https://twitter.com/I7RANKI)  / [Linkedin](https://www.linkedin.com/in/francisco-guzman-herrera/)  
