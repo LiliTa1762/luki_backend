@@ -3,6 +3,7 @@ from models.base_model import Basejson
 
 
 class Property(Basejson, db.Model):
+    """ Property table with all the info of the property """ 
     id = db.Column(db.Integer, primary_key=True, nullable=False)
     startdate = db.Column(db.String(45), nullable=False)
     enddate = db.Column(db.String(45), nullable=False)
