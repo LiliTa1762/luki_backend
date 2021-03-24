@@ -1,7 +1,7 @@
 # Luki API :purple_square:
 <img width="374" alt="luki" src="https://user-images.githubusercontent.com/65993425/112252659-881cc000-8c2b-11eb-9bb0-b2a266e5dac0.png" style="border-radius: 15%;"/>  
 
-[Link to Luki repository :link:](https://github.com/I7RANK/Luki)
+[Link to Luki front-end repository :link:](https://github.com/I7RANK/Luki)
 
 ##### _goes were you go_
 This repo contains the main code for the Luki API ready to run in localhost and you can test the API in the section **Endpoints**
